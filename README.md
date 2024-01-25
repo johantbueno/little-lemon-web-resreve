@@ -16,7 +16,7 @@ Glimpses:
 home-page-1	home-page-2
 reservation-1	reservation-2
 Quick Start
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
+$ git clone (https://github.com/johantbueno/little-lemon-web-resreve).git
 $ cd little-lemon-restaurant
 $ npm install
 Launch the app
